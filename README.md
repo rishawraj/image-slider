@@ -1,0 +1,4 @@
+- building a image-slider with webpack
+  - js
+  - css
+  - image
